@@ -1,0 +1,1 @@
+Neste projeto exercitei as funcções em JavaScript, ja foi me dado o HTML e o CSS, apenas fiz o arquivo de códigos app.js, onde junto com instrutotes da Alura, pude aprender o que são funções, variáveis e algumas estruturas de condição.
