@@ -20,5 +20,5 @@ function somaDeNumeros() {
   let segundoNumero = parseInt(prompt('Digite o segundo número'));
   let terceiroNumero = parseInt(prompt('Digite o segundo número'));
   let resultado = primeiroNumero + segundoNumero + terceiroNumero ;
-  alert(`${primeiroNumero} + ${segundoNumero} + ${terceiroNumero} = ${resultado}`)
+  alert(`${primeiroNumero} + ${segundoNumero} + ${terceiroNumero}  = ${resultado}`)
 }
