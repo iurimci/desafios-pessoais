@@ -9,7 +9,7 @@ consoleButton.addEventListener('click', () => {
   }
 });
 function exibirAlerta() {
-  alert('Eu amo programar demais')
+  alert('Eu amo programar demais demais')
 };
 function perguntaNome() {
   let nomeDaCidade = prompt('Digite o nome de uma cidade do Brasil que você gosta muito')
