@@ -9,7 +9,7 @@ consoleButton.addEventListener('click', () => {
   }
 });
 function exibirAlerta() {
-  alert('Eu amo O Nilson')
+  alert('Eu amo programar demais demais')
 };
 function perguntaNome() {
   let nomeDaCidade = prompt('Digite o nome de uma cidade do Brasil que você gosta muito')
@@ -18,6 +18,6 @@ function perguntaNome() {
 function somaDeNumeros() {
   let primeiroNumero = parseInt(prompt('Digite o primeiro número'));
   let segundoNumero = parseInt(prompt('Digite o segundo número'));
-  let resultado = primeiroNumero + segundoNumero;
+  let resultado = primeiroNumero + segundoNumero ;
   alert(`${primeiroNumero} + ${segundoNumero} = ${resultado}`)
 }
